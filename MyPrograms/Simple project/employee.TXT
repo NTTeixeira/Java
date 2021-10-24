@@ -1,0 +1,4 @@
+01, Nathan Siman, 1000
+02, Maria Eduarda, 1200
+03, Vinícius de Souza, 1400
+04, Rafael Nonato, 2000
